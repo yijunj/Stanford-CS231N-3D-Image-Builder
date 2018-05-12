@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dc34952-8c74-4573-8cbe-f2ffd42934b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/R2C2_test-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notebooks/R2C2_test.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/settings.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/R2N2_encoder-checkpoint.ipynb" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/R2N2_encoder-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Resnet_tensorflow-checkpoint.ipynb" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Resnet_tensorflow-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Self_tutorial-checkpoint.ipynb" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Self_tutorial-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/R2N2_encoder.ipynb" afterPath="$PROJECT_DIR$/notebooks/R2N2_encoder.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/Resnet_tensorflow.ipynb" afterPath="$PROJECT_DIR$/notebooks/Resnet_tensorflow.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/Self_tutorial.ipynb" afterPath="$PROJECT_DIR$/notebooks/Self_tutorial.ipynb" />
-    </list>
+    <list default="true" id="7dc34952-8c74-4573-8cbe-f2ffd42934b5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
